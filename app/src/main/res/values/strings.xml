@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">SalesTracker</string>
+    <string name="logo_desc">Logo Aplikasi</string>
+    <string name="welcome_title">Selamat Datang</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Masuk</string>
+    <string name="beranda_title">Beranda</string>
+    <string name="welcome_sub">Anda terdaftar dengan email:</string>
+    <string name="empty_email">Email tidak diisi</string>
+    <string name="default_dash">-</string>
 </resources>
